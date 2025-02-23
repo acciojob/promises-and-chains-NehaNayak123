@@ -9,7 +9,7 @@ btn.addEventListener("click", (e)=>{
     e.preventDefault();
     if(fname.value=="" || age.value==""){
         // console.log("hifghjm")
-		alert("Please enter valid details.")
+		alert("Please enter valid details")
         return;
 	}
     // console.log("copleted")
